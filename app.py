@@ -15,7 +15,7 @@ st.set_page_config(
 
 st.markdown("## :orange[Instant Attachments, Seamless Sending!]")
 
-st.write("<img src='https://plus.unsplash.com/premium_photo-1682309526815-efe5d6225117?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZW1haWx8ZW58MHx8MHx8fDA%3D' width='300' height='270' style='border-radius:7px;'><br>",unsafe_allow_html=True)
+st.write("<img src='https://plus.unsplash.com/premium_photo-1682309526815-efe5d6225117?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZW1haWx8ZW58MHx8MHx8fDA%3D' width='300' height='250' style='border-radius:7px;'><br>",unsafe_allow_html=True)
 
 gmail=st.text_input(label="Enter Your Email",help="please enter your email address")
 password=st.text_input(label="Enter Your App Password",type="password")
